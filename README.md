@@ -14,7 +14,8 @@ The app uses a local JSON server (`json-server`) to simulate a backend API for p
 
 Make sure you have the following installed:
 
-- Node.js
+Node.js
+Tailwind CSS
 
 ### Installation
 
@@ -44,8 +45,11 @@ Frontend: React, Tailwind CSS, JavaScript, HTML, CSS
 Backend: JSON Server
 Build Tool: Vite.
 
+All Blogs:
 ![alt text](image.png)
 
+Create Blog:
 ![alt text](image-1.png)
 
+View Blog:
 ![alt text](image-2.png)
